@@ -1,0 +1,1 @@
+Started as a project at WorldQuant University to analyze how financial news impacts markets, and further expanded it by applying ARIMA for time-series forecasting and GARCH to model market volatility.
